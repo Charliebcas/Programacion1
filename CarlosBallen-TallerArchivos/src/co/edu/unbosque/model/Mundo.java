@@ -197,10 +197,8 @@ public class Mundo {
 				j3++;
 			}
 		}
-		
 	}
-	
-	
+		
 	public void calcularNomina(){
 		inicializarArregloNomina();
 		aplicarRetencion();
@@ -209,6 +207,5 @@ public class Mundo {
 		guardarNomina(this.nomina2,this.nomina15);
 		guardarNomina(this.nomina3,this.nomina20);
 	}
-	
 	
 }
