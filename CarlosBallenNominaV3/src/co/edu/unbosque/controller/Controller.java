@@ -23,10 +23,10 @@ public class Controller {
 		try {
 			m.leerDatos();
 			m.calcularNomina();
-			gui.imprimirMensaje("Archivos creados con exito");
+			gui.imprimirMensaje("Archivos creados con exito: "+m.getNumArchSalida());
 		}
 		catch(Exception e){
-			gui.imprimirMensaje("Error, intente de nuevo por favor.");
+			gui.imprimirMensaje("Error, intente de nuevo por favor y verifique las propiedades.");
 		}
 	}
 

@@ -1,3 +1,4 @@
+Nombre Proyecto: CarlosBallenNominaV3
 Documento ; Nomina con retencion
 1000794208 ;8000
 1032382028 ;16000
@@ -19,4 +20,3 @@ Documento ; Nomina con retencion
 1034299767 ;28000
 1033687268 ;8000
 1067729277 ;4800
-1022777152 ;18000000
