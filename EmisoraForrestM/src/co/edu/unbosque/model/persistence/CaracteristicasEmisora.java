@@ -1,6 +1,6 @@
 package co.edu.unbosque.model.persistence;
 
-public class Propiedades extends Persistence {
+public class CaracteristicasEmisora extends Persistence {
 
 	@Override
 	public void escribir(String dato, String ruta) {
