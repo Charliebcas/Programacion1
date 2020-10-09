@@ -4,12 +4,14 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import co.edu.unbosque.model.ClaseX;
+import co.edu.unbosque.model.Emisora;
 import co.edu.unbosque.view.View;
 
 public class Controller implements ActionListener{
 
 	private ClaseX m;
 	private View gui;
+	private Emisora emisora;
 	
 	public Controller() {
 		m = new ClaseX();
